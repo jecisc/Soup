@@ -1,5 +1,5 @@
 *Soup-GToolkit
-gtViewChildrenOn: aView
+childrenGtViewFor: aView
 	<gtView>
 
 	(self children isEmpty) ifTrue: [ ^ aView empty ].

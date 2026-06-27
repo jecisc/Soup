@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'Soup-GToolkit'!
+self packageOrganizer ensurePackage: #'Soup-GToolkit' withTags: #()!

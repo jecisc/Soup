@@ -1,5 +1,5 @@
 *Soup-GToolkit
-gtViewElementsOn: aView
+elementsGtViewFor: aView
 	<gtView>
 
 	(self isEmpty) ifTrue: [ ^ aView empty ].
